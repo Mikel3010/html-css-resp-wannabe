@@ -165,3 +165,12 @@ img {
         margin-bottom: 3rem;
     }
  }
+
+ @media screen and (max-width: 768px){
+    .container{
+        width: 95%;
+        margin: 0 auto;
+        padding-left: 0;
+        padding-right: 0;
+    }
+ }
